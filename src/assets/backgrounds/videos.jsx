@@ -1,0 +1,7 @@
+export {default as clouds} from './clouds.mp4'
+export {default as thunderstorm} from './thunderstorm.mp4'
+export {default as drizzle} from './drizzle.mp4'
+export {default as rain} from './rain.mp4'
+export {default as snow} from './snow.mp4'
+export {default as mist} from './mist.mp4'
+export {default as clear} from './clear.mp4'

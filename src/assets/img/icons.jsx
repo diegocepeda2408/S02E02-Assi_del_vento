@@ -1,0 +1,5 @@
+export {default as icon1} from './clouds.png'
+export {default as icon2} from './cloudy.png'
+export {default as icon3} from './drizzle.png'
+export {default as icon4} from './foggy.png'
+export {default as icon5} from './snow.png'
